@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2.cpp" />
     <ClCompile Include="example.cpp" />
     <ClCompile Include="OOPLab8T.cpp" />
   </ItemGroup>
